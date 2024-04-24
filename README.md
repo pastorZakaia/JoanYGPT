@@ -6,7 +6,7 @@
 ## In proccess.....
 A educational AI powered chatbox, useful for intergrating into web applications. 
 
-A Chatbox for educating users on Black Art and Black Artists through the decades as well as their significance contemporary cultural and artistc movements
+An interactive chatbox for educating users on Black Art and Black Artists throughout the decades, as well as their significance in contemporary cultural and artistc movements
 
 
 ## Demo App
