@@ -4,7 +4,7 @@
 ```
 
 
-## In proccess.....
+## In process.....
 A educational AI powered chatbox, useful for intergrating into web applications. 
 
 An interactive chatbox for educating users on Black Art and Black Artists throughout the decades, as well as their significance in contemporary cultural and artistc movements
